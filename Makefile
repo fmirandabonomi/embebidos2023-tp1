@@ -1,5 +1,8 @@
 producido = $(wildcard output/*)
 
+help:
+	@echo "Este es el práctico 1"
+
 all: output/miprograma
 
 run: output/miprograma
