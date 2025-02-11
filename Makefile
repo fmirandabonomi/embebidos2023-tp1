@@ -1,7 +1,8 @@
 producido = $(wildcard output/*)
 
 help:
-	@echo -e "Uso: \n"\
+	@echo -e "Este es el práctico 1\n"\
+	"Uso: \n"\
 	"make run : compilar (si es necesario) y ejecutar el programa\n"\
 	"make all : compilar el programa\n"\
 	"make clean: borrar archivos generados\n"\
